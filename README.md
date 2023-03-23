@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonsoooon
+- 👋 Hi, I’m @johntvnguyen
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on any type of coding projects
